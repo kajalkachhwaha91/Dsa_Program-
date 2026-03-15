@@ -32,6 +32,7 @@ class Solution(object):
 
         return ele
 
+
 nums = [3,2,3]
 obj1 = Solution()
 obj1.majorityElement(nums)
