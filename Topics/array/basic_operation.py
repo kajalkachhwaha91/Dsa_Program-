@@ -10,6 +10,6 @@ print("list after appending 100 and 200 is ", lst)
 lst.remove(30)
 print("list after removing 30 is ", lst)
 
-if 500 in lst:
+if 50 in lst:
   print(" 50 is present in list")
   
