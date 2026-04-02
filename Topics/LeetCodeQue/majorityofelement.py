@@ -33,6 +33,6 @@ class Solution(object):
         return ele
 
 
-nums = [3,2,3]
+nums = [3,2,3,4 ,7,7]
 obj1 = Solution()
-obj1.majorityElement(nums)
+print(obj1.majorityElement(nums))
